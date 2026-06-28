@@ -1,0 +1,17 @@
+# Thumbnails
+.thumbnail
+
+# Uploads / binary assets
+uploads/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Node (if used later)
+node_modules/
